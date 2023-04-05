@@ -38,10 +38,16 @@ input {
   display: flex;
   justify-content: space-between;
   padding: 16px;
+  background-color: #eeeeee;
  }
 
  ul {
   display: flex;
   gap: 16px;
   list-style: none;
+  
+ }
+ a {
+  text-decoration: inherit;
+  text-decoration-color: gray;
  }
