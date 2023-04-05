@@ -55,5 +55,5 @@ input {
  }
  a {
   text-decoration: inherit;
-  text-decoration-color: gray;
+  color: rgb(68, 68, 68);
  }
