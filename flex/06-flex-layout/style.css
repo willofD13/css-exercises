@@ -41,6 +41,11 @@ input {
   background-color: #eeeeee;
  }
 
+ .content {
+  align-self: center;
+  text-align: center;
+ }
+
  ul {
   display: flex;
   gap: 16px;
