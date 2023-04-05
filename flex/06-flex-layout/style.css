@@ -28,3 +28,10 @@ input {
   width: 400px;
   margin-bottom: 16px;
 }
+ .header {
+  padding: 16px;
+ }
+
+ .footer {
+  padding: 16px;
+ }
