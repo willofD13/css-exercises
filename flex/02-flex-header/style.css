@@ -4,6 +4,7 @@
   display: flex;
   flex-direction: row;
   justify-content:space-around;
+  align-items: center;
 
 }
 
@@ -14,6 +15,7 @@
   background: white;
   padding: 4px 32px;
   align-self: center;
+  margin: 8px;
 }
 
 ul {
