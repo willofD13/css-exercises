@@ -29,9 +29,13 @@ input {
   margin-bottom: 16px;
 }
  .header {
+  justify-content: space-between;
+  display: flex;
   padding: 16px;
  }
 
  .footer {
+  display: flex;
+  justify-content: space-between;
   padding: 16px;
  }
