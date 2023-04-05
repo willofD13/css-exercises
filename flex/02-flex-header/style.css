@@ -22,8 +22,15 @@ ul {
   /* this removes the dots on the list items*/
   list-style-type: none;
   display: flex;
+  padding: 0;
   
   
+}
+.right-links {
+  margin-left: auto;
+}
+.left-links {
+  margin-right: auto;
 }
 
 a {
